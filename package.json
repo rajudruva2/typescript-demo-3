@@ -1,0 +1,1 @@
+{"name":"inventory-service-ts","version":"1.0.0","private":true,"scripts":{"build":"tsc","start":"node dist/app.js"},"dependencies":{"express":"^4.21.2"},"devDependencies":{"@types/express":"^5.0.0","@types/node":"^22.10.0","typescript":"^5.7.2"}}
